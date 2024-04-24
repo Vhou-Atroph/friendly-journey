@@ -1,2 +1,2 @@
 #!/bin/bash
-flatpak run com.toontownrewritten.Launcher
+flatpak run com.toontownrewritten.Launcher || flatpak install https://cdn.toontownrewritten.com/launcher/linux/launcher.flatpakref
