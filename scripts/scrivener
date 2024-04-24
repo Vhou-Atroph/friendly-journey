@@ -1,0 +1,2 @@
+#!/bin/bash
+cd "/home/vhou/.wine/drive_c/Program Files/Scrivener3" && wine Scrivener.exe
